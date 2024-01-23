@@ -1,3 +1,9 @@
 # INTERNSHIP
 ## ABOUT IIIC
 IIIC-INTEGRATED INDUSTRIAL INCUBATION CENTER
+
+## INTERNSHIP COURSES
+1. 3D designing and printing using TINKERCAD
+
+2. Industrial Robotics
+   
