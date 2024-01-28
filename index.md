@@ -6,7 +6,7 @@ IIIC-INTEGRATED INDUSTRIAL INCUBATION CENTER
 1. 3D Designing and Printing
 
    - using TINKERCAD
-   https://www.tinkercad.com/things/3iiy5tQ6oKe-magnificent-kasi-migelo/edit?returnTo=%2Fdashboard
+   https://github.com/angisha-30/TATA-IIC-internship/blob/main/tinkercad.png
 
    - using CREO
    https://github.com/angisha-30/TATA-IIC-internship/blob/main/CREO.jpg
