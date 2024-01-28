@@ -21,6 +21,7 @@ IIIC-INTEGRATED INDUSTRIAL INCUBATION CENTER
 3. Injection Molding
 
    - Went for 1 day industrial visit to THE METAL INDUSTRIES LTD (A govt of kerala undertaking) on 27th January 2024.
+     https://github.com/angisha-30/TATA-IIC-internship/blob/main/industrial%20visit.jpg
    
      
    
