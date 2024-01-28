@@ -11,5 +11,12 @@ IIIC-INTEGRATED INDUSTRIAL INCUBATION CENTER
    using CREO
    https://github.com/angisha-30/TATA-IIC-internship/blob/main/CREO.jpg
 
-3. Industrial Robotics
+2. Industrial Robotics
+
+   Completed online course on yaskawa safety principle 
+   Offered by YASKAWA
+  
+
+
+   Completed one week internship in Pic & Place and Arc welding robot at TATA JYOTHI IIIC.
    
